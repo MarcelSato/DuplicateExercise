@@ -1,1 +1,1 @@
-This is an exercise project, fin duplicate numbers in a List
+This is an exercise project, find duplicate numbers in a List
