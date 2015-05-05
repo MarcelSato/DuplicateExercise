@@ -17,6 +17,7 @@ public class Duplicate {
         numbers.add(5);
         numbers.add(2);
         numbers.add(36);
+        numbers.add(36);
         numbers.add(13);
         HashSet numbersSet = new HashSet();
         for(int i = 0; i < numbers.size(); i++){
