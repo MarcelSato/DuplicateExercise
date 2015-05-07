@@ -1,1 +1,2 @@
-This is an exercise project, find duplicate numbers in a List
+This is an exercise project, find duplicate numbers in a List.
+Test.
