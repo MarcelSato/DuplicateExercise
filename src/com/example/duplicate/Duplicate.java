@@ -6,7 +6,9 @@ import java.util.List;
 
 /**
  * Created by marcelsato on 5/2/15.
+ * Java exercise
  */
+ 
 public class Duplicate {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
