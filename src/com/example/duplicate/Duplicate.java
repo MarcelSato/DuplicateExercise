@@ -19,6 +19,12 @@ public class Duplicate {
         numbers.add(36);
         numbers.add(36);
         numbers.add(13);
+        numbers.add(13);
+        numbers.add(12);
+        numbers.add(11);
+        numbers.add(14);
+        numbers.add(14);
+        numbers.add(13);
         HashSet numbersSet = new HashSet();
         for(int i = 0; i < numbers.size(); i++){
             if(numbersSet.add(numbers.get(i))){
